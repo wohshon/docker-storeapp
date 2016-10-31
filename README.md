@@ -1,6 +1,6 @@
 ### Docker - Store app
 
-Build eap image
+Build eap image (EAP binaries not uploaded, may need subscription)
 
 	$ docker build -t jboss-store .
 
